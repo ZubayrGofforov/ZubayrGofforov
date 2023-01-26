@@ -5,8 +5,8 @@
 
 <p align="center">
     <a>
-        <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer; Always%20learning%20new%20things&center=true&width=380&height=45">
+    </a>
 </p>
 
 ## 👨🏻‍💻 About Me:
@@ -17,10 +17,10 @@
 <br/>
 
 - 🌍 I'm dotNet developer from Uzbekistan 🇺🇿
-- 🔭 I’m currently working on My project
-- 🌱 I’m currently learning frontend 
-- 👯 I’m looking to collaborate on dotNet project
-- 💬 Ask me about dotNet
+- 🔭 I'm currently working on My project
+- 🌱 I'm currently learning frontend 
+- 👯 I'm looking to collaborate on .NET project
+- 💬 Ask me about .NET
 
 <br/>
 
