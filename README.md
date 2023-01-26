@@ -3,11 +3,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-    <a href="https://github.com/Ulugbekivich/readme-typing-svg">
-        <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+
 
 ## 👨🏻‍💻 About Me:
 
