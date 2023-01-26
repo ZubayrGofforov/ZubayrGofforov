@@ -27,7 +27,7 @@
 <details open="">
   <p align="center">
    <a href="https://github.com/NormadjonGofforov/NormadjonGofforov">
-       <img alt="Snake animation" src="https://github.com/NormadjonGofforov/NormadjonGofforov/blob/output/github-contribution-grid-snake.svg"/></a>
+       <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
     
  <br/>
