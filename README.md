@@ -5,7 +5,7 @@
 
 <p align="center">
     <a>
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer; Always%20learning%20new%20things&center=true&width=380&height=45">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer">
     </a>
 </p>
 
