@@ -1,5 +1,5 @@
 <h3 align="center">
-    Welcome to Normadjon Gofforov's profile!
+    Welcome to Mustafoyev Fazliddin's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -92,7 +92,7 @@
     <a href="https://github.com/NormadjonGofforov">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/normadjon-gofforov-6131ba236/">
+    <a href="https://www.linkedin.com/in/fazliddin-mustafoyev-6252b1238/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
