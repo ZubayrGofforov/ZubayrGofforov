@@ -4,9 +4,9 @@
 </h3>
 
 <p align="center">
-    <a>
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer">
-    </a>
+    <a href="https://github.com/NormadjonGofforov/readme-typing-svg">
+        <img
+                src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 ## 👨🏻‍💻 About Me:
