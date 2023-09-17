@@ -17,7 +17,7 @@
 <br/>
 
 - 🌍 I'm .NET software developer from Uzbekistan.
-- 🔭 I work at Tubix.
+- 🔭 I work at Tubix and Digital Generation Uzbekistan.
 - 🌱 I'm currently learning mobile...
 - 👯 I'm looking to collaborate on .NET project.
 - 💬 Ask me about .NET
