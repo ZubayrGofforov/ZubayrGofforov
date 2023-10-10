@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/NormadjonGofforov/readme-typing-svg">
+    <a href="https://github.com/ZubayrGofforov/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=DotNet%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
@@ -27,7 +27,7 @@
 
 <details open="">
   <p align="center">
-   <a href="https://github.com/NormadjonGofforov/NormadjonGofforov">
+   <a href="https://github.com/ZubayrGofforov/ZubayrGofforov">
        <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
     
@@ -35,18 +35,18 @@
     
 ## 📊 Github Stats ⚡
 
-![](https://github-readme-stats.vercel.app/api?username=NormadjonGofforov&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=NormadjonGofforov&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=ZubayrGofforov&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=ZubayrGofforov&theme=tokyonight&hide_border=true)
 
 ## 🙋‍♂️ Connect with me
 
 <p>
-    <a href="https://github.com/NormadjonGofforov">
+    <a href="https://github.com/ZubayrGofforov">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/normadjon-gofforov-6131ba236/">
+    <a href="https://www.linkedin.com/in/zubayr-gofforov-6131ba236/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-    <a href="https://https://www.instagram.com/normadjongofforov/">
+    <a href="https://https://www.instagram.com/zubayrgofforov/">
         <img alt="Instagram"
              src="https://img.shields.io/badge/Instagram-6882045?style=flat&logo=instagram&logoColor=white"></a>
 </p>
