@@ -46,7 +46,7 @@
     <a href="https://www.linkedin.com/in/zubayr-gofforov-6131ba236/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-    <a href="https://https://www.instagram.com/zubayrgofforov/">
+    <a href="https://www.instagram.com/zubayrgofforov/">
         <img alt="Instagram"
              src="https://img.shields.io/badge/Instagram-6882045?style=flat&logo=instagram&logoColor=white"></a>
 </p>
