@@ -32,10 +32,7 @@
   </p>
     
  <br/>
-    
-## 📊 Github Stats ⚡
 
-![](https://github-readme-stats.vercel.app/api?username=ZubayrGofforov&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=ZubayrGofforov&theme=tokyonight&hide_border=true)
 
 ## 🙋‍♂️ Connect with me
 
