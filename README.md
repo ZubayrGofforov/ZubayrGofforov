@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-- 🌍 I'm .NET software developer from Uzbekistan.
+- 🌍 I'm .NET software engineer from Uzbekistan.
 - ⚙️ My specialty : `.NET`, `ASP.NET`, `MVC`, `WPF`, `PostgreSQL`
 - 💻 My programming languages : `.cs`, `.c`, `.py`
 - ⚔️ Technogies and tools : `.net`, `git`, `docker`, `rabbit mq`, `postgre sql`
