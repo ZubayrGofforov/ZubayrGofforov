@@ -18,7 +18,7 @@
 - ⚙️ My specialty : `.NET`, `ASP.NET`, `MVC`, `WPF`, `PostgreSQL`
 - 💻 My programming languages : `.cs`, `.c`, `.py`
 - ⚔️ Technogies and tools : `.net`, `git`, `docker`, `rabbit mq`, `postgre sql`
-- 🔭 I work at Tubix and Digital Generation Uzbekistan.
+- 🔭 I work at WEBASE LLC.
 - 🌱 Learning all about Open Source
 - 👯 I'm looking to collaborate on .NET project.
 - 💬 Ask me about .NET
